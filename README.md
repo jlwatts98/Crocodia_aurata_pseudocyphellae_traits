@@ -10,4 +10,4 @@ figure_3.R - This is a long script that implements best subset multiple linear r
 figure_4.R - This script implements an analysis of variance on thallus thickness across sites.
 
 # Data
-The data used in these scripts is available on figshare at: 
+The data used in these scripts is available on figshare at: 10.6084/m9.figshare.30066877
